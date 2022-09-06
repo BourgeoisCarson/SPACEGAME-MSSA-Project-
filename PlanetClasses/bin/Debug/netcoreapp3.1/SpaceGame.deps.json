@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SpaceGame/1.0.0": {
+        "dependencies": {
+          "SpaceClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SpaceGame.dll": {}
+        }
+      },
+      "SpaceClassLibrary/1.0.0": {
+        "runtime": {
+          "SpaceClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpaceGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpaceClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

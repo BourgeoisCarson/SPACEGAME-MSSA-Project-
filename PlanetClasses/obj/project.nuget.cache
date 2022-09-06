@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYVzO0pJfb0/Wdh8D6hyOWyWEZHZNVGKlEZL3wI4MdBTVjf3LvGgUZX3hUggZO5jm2Cl2uk3NBVZPK3RCDNMjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Desktop\\MSSA\\finalspacegame\\SpaceDemo\\SpaceGame\\PlanetClasses\\SpaceGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

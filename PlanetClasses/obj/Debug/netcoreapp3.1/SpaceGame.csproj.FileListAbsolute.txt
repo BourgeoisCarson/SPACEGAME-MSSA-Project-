@@ -1,0 +1,80 @@
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.exe
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.deps.json
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.json
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.dev.json
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csprojAssemblyReference.cache
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfo.cs
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CopyComplete
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.genruntimeconfig.cache
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.exe
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.deps.json
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.json
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CopyComplete
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.genruntimeconfig.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.exe
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.deps.json
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.json
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CopyComplete
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.genruntimeconfig.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.exe
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.deps.json
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.json
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CopyComplete
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.genruntimeconfig.cache
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.exe
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.deps.json
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.json
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.runtimeconfig.dev.json
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csprojAssemblyReference.cache
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.AssemblyInfo.cs
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.csproj.CopyComplete
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.dll
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.pdb
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\SpaceGame.genruntimeconfig.cache

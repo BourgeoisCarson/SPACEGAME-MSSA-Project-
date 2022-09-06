@@ -1,0 +1,13 @@
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\PlanetClasses.exe
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\PlanetClasses.deps.json
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\PlanetClasses.runtimeconfig.json
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\PlanetClasses.runtimeconfig.dev.json
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\PlanetClasses.dll
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\bin\Debug\netcoreapp3.1\PlanetClasses.pdb
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\PlanetClasses.csprojAssemblyReference.cache
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\PlanetClasses.AssemblyInfoInputs.cache
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\PlanetClasses.AssemblyInfo.cs
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\PlanetClasses.csproj.CoreCompileInputs.cache
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\PlanetClasses.dll
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\PlanetClasses.pdb
+C:\Users\ryand\Desktop\SpaceGame\PlanetClasses\obj\Debug\netcoreapp3.1\PlanetClasses.genruntimeconfig.cache

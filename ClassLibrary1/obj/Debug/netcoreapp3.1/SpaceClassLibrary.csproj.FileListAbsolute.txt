@@ -1,0 +1,45 @@
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.deps.json
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csprojAssemblyReference.cache
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfo.cs
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\david\Desktop\MSSA\spacegame\space-game\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.deps.json
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGame2-12.2\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.deps.json
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.deps.json
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\wwstudent\source\repos\SpaceGameUpdate - 1.1\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.deps.json
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\bin\Debug\netcoreapp3.1\SpaceClassLibrary.pdb
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csprojAssemblyReference.cache
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.AssemblyInfo.cs
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.dll
+C:\Users\david\Desktop\MSSA\finalspacegame\SpaceDemo\SpaceGame\ClassLibrary1\obj\Debug\netcoreapp3.1\SpaceClassLibrary.pdb

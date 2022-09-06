@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items>
+	<Explodium>
+		<name>Explodium</name>
+		<value>100</value>
+	</Explodium>
+	<Fuel>
+		<name>Fuel</name>
+		<value>100</value>
+	</Fuel>
+	<food>
+		<name>Food</name>
+		<value>7</value>
+	</food>
+	<Tools>
+		<name>Tools</name>
+		<value>100</value>
+	</Tools>
+	<Radiation_Meds>
+		<name>Radiation Meds</name>
+		<value>100</value>
+	</Radiation_Meds>
+	<Orbs>
+		<name>Orbs</name>
+		<value>100</value>
+	</Orbs>
+	<Medals>
+		<name>Medals</name>
+		<value>100</value>
+	</Medals>
+	<Trophies>
+		<name>Trophies</name>
+		<value>100</value>
+	</Trophies>
+	<Neoplasmin>
+		<name>Neoplasmin Cubes</name>
+		<value>100</value>
+	</Neoplasmin>
+</items>
